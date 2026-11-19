@@ -1,5 +1,7 @@
 # ModuLab — AM / FM / PM Modulation & Demodulation Simulator
 
+**Live demo:** <https://taydechinmay487.github.io/modulab/>
+
 An interactive Data Communication project that takes a text message through a **complete
 transmission chain** and back again:
 
