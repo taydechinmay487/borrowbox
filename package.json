@@ -1,9 +1,11 @@
 {
-  "name": "modulab",
+  "name": "borrowbox",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Interactive AM / FM / PM modulation and demodulation simulator for a Data Communication project",
+  "description": "BorrowBox — a hyperlocal rental platform prototype for students and hostel residents",
+  "license": "MIT",
+  "keywords": ["rental", "students", "hyperlocal", "prototype"],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
