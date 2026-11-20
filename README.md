@@ -10,6 +10,8 @@ use, students rent it from a verified host within walking distance of campus.
 > simulated, and no payment gateway, delivery service, GPS tracking or backend
 > database is connected.
 
+**Live demo:** https://taydechinmay487.github.io/borrowbox/
+
 ## Run it
 
 ```bash
